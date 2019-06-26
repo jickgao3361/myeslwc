@@ -1,0 +1,168 @@
+[
+    [
+        "F:\\Study\\myeslwc\\force-app",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561534959688,
+            "changeTime": 1561534959688,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561534959725,
+            "changeTime": 1561534959725,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561538794210,
+            "changeTime": 1561538794210,
+            "contentHash": "b536d55b7845e6412e0000158d52602d43be16be",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561534959726,
+            "changeTime": 1561534959726,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561534959727,
+            "changeTime": 1561534959727,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc",
+        {
+            "sourcePath": "F:\\Study\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1561534980903,
+            "changeTime": 1561534980903,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 6586,
+            "modifiedTime": 1561538794218,
+            "changeTime": 1561538794218,
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Test.globalValueSet-meta.xml",
+        {
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Test.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "size": 579,
+            "modifiedTime": 1561538794226,
+            "changeTime": 1561538794226,
+            "contentHash": "8fc6dd24b8ccd5c30062818f2b4fafee1f0a6dba",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1561538910279,
+            "changeTime": 1561538910279,
+            "contentHash": "bc2268ce5fe8ff596ea9cff8fd19bd9412658e25"
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1561538910268,
+            "changeTime": 1561538910268,
+            "contentHash": "c2ba1727bf103c2ab49de4c4754766d028de20f1"
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1561538910274,
+            "changeTime": 1561538910274,
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+        }
+    ],
+    [
+        "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "F:\\Study\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1561538910279,
+            "changeTime": 1561538910279,
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+        }
+    ]
+]
